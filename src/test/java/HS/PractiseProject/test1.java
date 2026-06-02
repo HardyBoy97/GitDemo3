@@ -14,5 +14,10 @@ public class test1 {
 	{
 		System.out.println("How are you?");
 	}
+	
+	public void greet3()
+	{
+		System.out.println("Indian Archetect develop");
+	}
 
 }
