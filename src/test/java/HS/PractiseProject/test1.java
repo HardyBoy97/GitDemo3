@@ -19,5 +19,10 @@ public class test1 {
 	{
 		System.out.println("Indian Archetect develop");
 	}
+	
+	public void greet4()
+	{
+		System.out.println("Americal Archetect develop");
+	}
 
 }
