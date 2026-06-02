@@ -24,5 +24,10 @@ public class test1 {
 	{
 		System.out.println("Americal Archetect develop");
 	}
+	
+	public void greet5()
+	{
+		System.out.println("Americal archetect master");
+	}
 
 }
